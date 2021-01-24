@@ -69,9 +69,6 @@
 			</style>
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<script>
-document.write("Hello World!");
-				</script>
 			</div>
 		</div>
 	</foreignObject>
